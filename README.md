@@ -1,2 +1,6 @@
 # Computer_Vision_RGB_Channel_analysis
 This code is use to analysis the color effect in image formation, here mainly (RBG) are involves
+
+Working of the code
+
+1. A picture is given with the backgroung in "Red, Green and Blue" , and image is used to observe the changes when the any color is distrub
