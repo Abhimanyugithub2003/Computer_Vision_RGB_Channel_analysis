@@ -8,3 +8,4 @@ Working of the code
 1. A picture is given with the backgroung in "Red, Green and Blue" , and image is used to observe the changes when the any color is distrub
 
 # the PIL file will provide the information about the exceution of certain PIL( python Imagary Libreary) function
+# line_and_shapes give information about making the shapes likes rectangle and polygon also writing the text
